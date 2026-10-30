@@ -19,5 +19,11 @@ setup che viene effettuato una sola volta con il nome dello sviluppatore
 ### git config --global user.email
 setup che viene effettuato una sola volta con l'email dello sviluppatore
 
+### git clone indirizzo repository
+clono in local una repositoy remota
+
+### git pull
+aggiorno la repository locale con modifiche presenti su quella remota
+
 ### git push
 Operazione di invio delle modifiche alla repository locale
